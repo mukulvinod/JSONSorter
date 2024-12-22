@@ -1,0 +1,339 @@
+[
+  {
+  "spans": [
+    {
+      "offset": 399,
+      "length": 25
+    }
+  ],
+  "boundingRegions": [
+    {
+      "pageNumber": 4,
+      "polygon": [
+        5.3937,
+        7.4883,
+        7.3342,
+        7.4883,
+        7.3342,
+        7.6506,
+        5.3937,
+        7.6506
+      ]
+    }
+  ],
+  "content": ". Base Frame: Black Matte"
+},
+  {
+  "spans": [
+    {
+      "offset": 425,
+      "length": 8
+    }
+  ],
+  "boundingRegions": [
+    {
+      "pageNumber": 4,
+      "polygon": [
+        5.3937,
+        7.6579,
+        6.0725,
+        7.6653,
+        6.0707,
+        7.8277,
+        5.3919,
+        7.8203
+      ]
+    }
+  ],
+  "content": "· Qty: 7"
+},
+  {
+  "spans": [
+    {
+      "offset": 379,
+      "length": 19
+    }
+  ],
+  "boundingRegions": [
+    {
+      "pageNumber": 4,
+      "polygon": [
+        5.401,
+        7.326,
+        6.7513,
+        7.326,
+        6.7513,
+        7.4809,
+        5.401,
+        7.4809
+      ]
+    }
+  ],
+  "content": "· Top Finish: White"
+},
+  {
+  "spans": [
+    {
+      "offset": 361,
+      "length": 17
+    }
+  ],
+  "boundingRegions": [
+    {
+      "pageNumber": 4,
+      "polygon": [
+        5.401,
+        7.0087,
+        6.885,
+        7.0161,
+        6.8841,
+        7.1932,
+        5.4002,
+        7.1858
+      ]
+    }
+  ],
+  "content": "ERG Harmony Table"
+},
+  {
+  "spans": [
+    {
+      "offset": 323,
+      "length": 37
+    }
+  ],
+  "boundingRegions": [
+    {
+      "pageNumber": 4,
+      "polygon": [
+        5.4074,
+        3.6225,
+        7.5187,
+        3.615,
+        7.5198,
+        3.9419,
+        5.4086,
+        3.9494
+      ]
+    }
+  ],
+  "content": ". Base Finish: Uptown Walnut . Qty: 4"
+},
+  {
+  "spans": [
+    {
+      "offset": 288,
+      "length": 34
+    }
+  ],
+  "boundingRegions": [
+    {
+      "pageNumber": 4,
+      "polygon": [
+        5.4084,
+        3.2757,
+        7.4375,
+        3.2757,
+        7.4375,
+        3.6076,
+        5.4084,
+        3.6076
+      ]
+    }
+  ],
+  "content": "· Fabric Finish: Cover Cloth/ Cyan"
+},
+  {
+  "spans": [
+    {
+      "offset": 263,
+      "length": 24
+    }
+  ],
+  "boundingRegions": [
+    {
+      "pageNumber": 4,
+      "polygon": [
+        5.4379,
+        2.9879,
+        7.3563,
+        2.9879,
+        7.3563,
+        3.1576,
+        5.4379,
+        3.1576
+      ]
+    }
+  ],
+  "content": "SIT-ON-IT GOBI CHAIR - 1"
+},
+  {
+  "spans": [
+    {
+      "offset": 518,
+      "length": 34
+    }
+  ],
+  "boundingRegions": [
+    {
+      "pageNumber": 4,
+      "polygon": [
+        8.1311,
+        3.2757,
+        9.8736,
+        3.2904,
+        9.8709,
+        3.6075,
+        8.1284,
+        3.5927
+      ]
+    }
+  ],
+  "content": "· Fabric Finish : Manner, Parakeet"
+},
+  {
+  "spans": [
+    {
+      "offset": 553,
+      "length": 37
+    }
+  ],
+  "boundingRegions": [
+    {
+      "pageNumber": 4,
+      "polygon": [
+        8.1385,
+        3.615,
+        10.2339,
+        3.615,
+        10.2339,
+        3.947,
+        8.1385,
+        3.947
+      ]
+    }
+  ],
+  "content": ". Base Finish: Uptown Walnut · Qty: 4"
+},
+  {
+  "spans": [
+    {
+      "offset": 468,
+      "length": 24
+    }
+  ],
+  "boundingRegions": [
+    {
+      "pageNumber": 4,
+      "polygon": [
+        8.168,
+        2.9879,
+        10.1011,
+        2.9879,
+        10.1011,
+        3.1576,
+        8.168,
+        3.1576
+      ]
+    }
+  ],
+  "content": "SIT-ON-IT GOBI CHAIR - 2"
+},
+  {
+  "spans": [
+    {
+      "offset": 625,
+      "length": 28
+    }
+  ],
+  "boundingRegions": [
+    {
+      "pageNumber": 4,
+      "polygon": [
+        10.6914,
+        3.6003,
+        12.7795,
+        3.6003,
+        12.7795,
+        3.77,
+        10.6914,
+        3.77
+      ]
+    }
+  ],
+  "content": "· Base Finish: Uptown Walnut"
+},
+  {
+  "spans": [
+    {
+      "offset": 654,
+      "length": 8
+    }
+  ],
+  "boundingRegions": [
+    {
+      "pageNumber": 4,
+      "polygon": [
+        10.7062,
+        3.7773,
+        11.3628,
+        3.7847,
+        11.361,
+        3.9471,
+        10.7043,
+        3.9397
+      ]
+    }
+  ],
+  "content": "· Qty: 4"
+},
+  {
+  "spans": [
+    {
+      "offset": 591,
+      "length": 33
+    }
+  ],
+  "boundingRegions": [
+    {
+      "pageNumber": 4,
+      "polygon": [
+        10.7062,
+        3.2757,
+        12.4045,
+        3.2904,
+        12.4017,
+        3.6131,
+        10.7034,
+        3.5984
+      ]
+    }
+  ],
+  "content": "· Fabric Finish : Venice, Sundown"
+},
+  {
+  "spans": [
+    {
+      "offset": 493,
+      "length": 24
+    }
+  ],
+  "boundingRegions": [
+    {
+      "pageNumber": 4,
+      "polygon": [
+        10.7283,
+        2.9879,
+        12.6541,
+        2.9879,
+        12.6541,
+        3.1576,
+        10.7283,
+        3.1576
+      ]
+    }
+  ],
+  "role": "sectionHeading",
+  "content": "SIT-ON-IT GOBI CHAIR - 3"
+}
+]
